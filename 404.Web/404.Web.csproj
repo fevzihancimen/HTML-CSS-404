@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="More about headings!.html" />
     <Content Include="Sayfalar\2.html" />
     <Content Include="Sayfalar\3.html" />
     <Content Include="Sayfalar\4.html" />
