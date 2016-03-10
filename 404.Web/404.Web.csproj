@@ -66,13 +66,15 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="More about headings!.html" />
+    <Content Include="Mid-LessonBreather.html" />
+    <Content Include="Sayfalar\MoreAboutHeadings.html" />
     <Content Include="Sayfalar\2.html" />
     <Content Include="Sayfalar\3.html" />
     <Content Include="Sayfalar\4.html" />
     <Content Include="Sayfalar\5.html" />
     <Content Include="Sayfalar\Anasayfa.html" />
     <Content Include="packages.config" />
+    <Content Include="Sayfalar\UsingEveryHeading.html" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -82,7 +84,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Sayfalar\ParagraphsAndHeadings.html" />
-    <Content Include="Using every heading.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
